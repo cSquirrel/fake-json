@@ -1,16 +1,14 @@
 {
     "localisations": [
-        {
-            "id" : 1,
-            "lang": "pl_PL"
-        },
-        {
-            "id" : 2,
-            "lang": "en_GB"
-        },
-        {
-            "id" : 3,
-            "lang": "en_US"
-        }
-    ]
-}
+      { "id": 1, "lang": "pl_PL" },
+      { "id": 2, "lang": "en_GB" },
+      { "id": 3, "lang": "en_US" }
+    ],
+    "comments": [
+      { "id": 1, "body": "some comment", "postId": 1 },
+      { "id": 2, "body": "some comment", "postId": 1 }
+    ],
+    "profile": {
+      "name": "typicode"
+    }
+  }
