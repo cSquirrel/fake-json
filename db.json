@@ -1,5 +1,6 @@
-[
-    {
+{
+    "localisations": [{
+        "id" : 1,
         "lang": "pl_PL"
-    }
-]
+    }]
+}
