@@ -1,12 +1,12 @@
 {
     "localisations": [
-      { "id": 1, "lang": "pl_PL" },
-      { "id": 2, "lang": "en_GB" },
-      { "id": 3, "lang": "en_US" }
+      { "id": 1, "lang": "pl_PL", "projectId": 1 },
+      { "id": 2, "lang": "en_GB", "projectId": 1 },
+      { "id": 3, "lang": "en_US", "projectId": 2 }
     ],
-    "comments": [
-      { "id": 1, "body": "some comment", "postId": 1 },
-      { "id": 2, "body": "some comment", "postId": 1 }
+    "projects": [
+      { "id": 1, "name": "Project #1"},
+      { "id": 2, "name": "Project #2"}
     ],
     "profile": {
       "name": "typicode"
